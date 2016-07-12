@@ -17,4 +17,4 @@
 - This week I learned the importance of communication skills and its impact in work-related tasks. It is crucial if we are going to present a report in front of our colleagues or in a different scenario, when we are going to ask for assistance when we are in a bit of a trouble. To effectively carry out a very pleasing, informative, and wonderful presentation, one must have an effective set of communication skills.
 
 ## Hardest task done this week
-- The hardest task I've done this week is when I have to integrate Ratchet PHP with our project because WebSockets is a relatively new technology. There are only a few tutorials that exist out there. Luckily I have found something that has helped me a lot. I studied it and because of it, I was successful in doing my task.
+- The hardest task I've done this week is when I have to integrate Ratchet PHP with our project because WebSockets is a relatively new technology. There are only a few tutorials that exist out there. Luckily I have found something that has helped me a lot. I studied it and it took time before I understood it well.
